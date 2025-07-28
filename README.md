@@ -1,6 +1,6 @@
 # 🎯 Number Guessing Game (Python CLI)
 
-A simple and fun number guessing game where the computer picks a number between **0 and 100**, and you try to guess it within a limited number of attempts — based on your chosen difficulty.
+A simple and fun number guessing game where the computer picks a number between **0 and 100**, and you try to guess it within a limited number of attempts, based on your chosen difficulty.
 
 ---
 
@@ -72,3 +72,6 @@ This project is licensed under the MIT License.
 
 ## 🙌 Author
 Created by @WildmanTy12
+
+## 🌐 Project URL
+https://roadmap.sh/projects/number-guessing-game
